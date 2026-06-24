@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "9595f2fcc4f1b850",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b1834ae79e313d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2a5f9d5f4885c53",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Introducao A Arch (Livro)/Introdução à arquitetura de design de software - Autor (Paulo Silveira).pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Introdução à arquitetura de design de software - Autor (Paulo Silveira)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "402b10ec724e890e",
+    "type": "split",
+    "children": [
+      {
+        "id": "46adbfd9c05df553",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7f8b9724ca90206",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "5c745e9461fa5b77",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "65cceae94e0bbb1d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e5dfcc884a16a160",
+    "type": "split",
+    "children": [
+      {
+        "id": "54052a10f85e93ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1fb7a46ca2905f35",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "O que ainda preciso fazer.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para O que ainda preciso fazer"
+            }
+          },
+          {
+            "id": "f56c074a94ed2210",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "O que ainda preciso fazer.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para O que ainda preciso fazer"
+            }
+          },
+          {
+            "id": "0fa93cf08fee2ef5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "7e4c8affa1e592a8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "965a22ebad416616",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "O que ainda preciso fazer.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de O que ainda preciso fazer"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "f2a5f9d5f4885c53",
+  "lastOpenFiles": [
+    "Introducao A Arch (Livro)/Introdução a Arquitetura de Software (Livro).md",
+    "Introducao A Arch (Livro)/Imgs/Pasted image 20260623191930.png",
+    "Introducao A Arch (Livro)/Imgs",
+    "Introducao A Arch (Livro)/Imgs/Pasted image 20260623192043.png",
+    "O que ainda preciso fazer.md",
+    "Introducao A Arch (Livro)/Introdução à arquitetura de design de software - Autor (Paulo Silveira).pdf",
+    "Introducao A Arch (Livro)",
+    "Introducao A Arch (Livro)/Imgs/Pasted image 20260623192019.png",
+    "Faculdade/Marketing Digital.md",
+    "AWS/Tracing.md",
+    "AWS/Lambdas.md",
+    "AWS/CloudFormation.md",
+    "AWS/AWS CDK (Cloud Development Kit).md",
+    "AWS/etc/03a_Criação_usuário_IAM.pdf"
+  ]
+}
