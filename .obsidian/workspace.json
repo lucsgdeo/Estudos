@@ -164,19 +164,9 @@
               "icon": "lucide-list",
               "title": "Sumário de O que ainda preciso fazer"
             }
-          },
-          {
-            "id": "106e217edab47bfa",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
