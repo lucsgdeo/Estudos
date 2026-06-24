@@ -11,12 +11,14 @@
             "id": "f2a5f9d5f4885c53",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Introducao A Arch (Livro)/Introdução à arquitetura de design de software - Autor (Paulo Silveira).pdf"
+                "file": "O que ainda preciso fazer.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Introdução à arquitetura de design de software - Autor (Paulo Silveira)"
+              "icon": "lucide-file",
+              "title": "O que ainda preciso fazer"
             }
           }
         ]
@@ -162,13 +164,23 @@
               "icon": "lucide-list",
               "title": "Sumário de O que ainda preciso fazer"
             }
+          },
+          {
+            "id": "106e217edab47bfa",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,17 +190,19 @@
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Criar nova base": false
+      "bases:Criar nova base": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "f2a5f9d5f4885c53",
   "lastOpenFiles": [
+    "Introducao A Arch (Livro)/Introdução à arquitetura de design de software - Autor (Paulo Silveira).pdf",
     "Introducao A Arch (Livro)/Introdução a Arquitetura de Software (Livro).md",
     "Introducao A Arch (Livro)/Imgs/Pasted image 20260623191930.png",
     "Introducao A Arch (Livro)/Imgs",
     "Introducao A Arch (Livro)/Imgs/Pasted image 20260623192043.png",
     "O que ainda preciso fazer.md",
-    "Introducao A Arch (Livro)/Introdução à arquitetura de design de software - Autor (Paulo Silveira).pdf",
     "Introducao A Arch (Livro)",
     "Introducao A Arch (Livro)/Imgs/Pasted image 20260623192019.png",
     "Faculdade/Marketing Digital.md",
