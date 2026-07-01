@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "O que ainda preciso fazer.md",
+                "file": "Clippings/Página da Vaga Scania.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "O que ainda preciso fazer"
+              "title": "Página da Vaga Scania"
             }
           }
         ]
@@ -166,7 +166,7 @@
             }
           },
           {
-            "id": "e9307c543ca42540",
+            "id": "106e217edab47bfa",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -197,19 +197,36 @@
   },
   "active": "f2a5f9d5f4885c53",
   "lastOpenFiles": [
+    "Vaga Scania.md",
+    "Clippings/Página da Vaga Scania.md",
+    "Clippings",
+    "O que ainda preciso fazer.md",
+    "📕 Introducao A Arch (Livro)/Imgs/Pasted image 20260623192043.png",
+    "📕 Introducao A Arch (Livro)/Imgs/Pasted image 20260623192019.png",
+    "📕 Introducao A Arch (Livro)/Imgs/Pasted image 20260623191930.png",
     "📕 Introducao A Arch (Livro)/Introdução à arquitetura de design de software - Autor (Paulo Silveira).pdf",
     "📕 Introducao A Arch (Livro)/Introdução a Arquitetura de Software (Livro).md",
-    "📕 Introducao A Arch (Livro)/Imgs/Pasted image 20260623191930.png",
     "📕 Introducao A Arch (Livro)/Imgs",
-    "📕 Introducao A Arch (Livro)/Imgs/Pasted image 20260623192043.png",
-    "O que ainda preciso fazer.md",
     "📕 Introducao A Arch (Livro)",
-    "📕 Introducao A Arch (Livro)/Imgs/Pasted image 20260623192019.png",
     "🎓 Faculdade/Marketing Digital.md",
+    "🎓 Faculdade",
+    "☁️ AWS/etc/03a_Criação_usuário_IAM.pdf",
     "☁️ AWS/Tracing.md",
     "☁️ AWS/Lambdas.md",
+    "☁️ AWS/etc",
     "☁️ AWS/CloudFormation.md",
     "☁️ AWS/AWS CDK (Cloud Development Kit).md",
-    "☁️ AWS/etc/03a_Criação_usuário_IAM.pdf"
+    "☁️ AWS",
+    "Introducao A Arch (Livro)/Introdução à arquitetura de design de software - Autor (Paulo Silveira).pdf",
+    "Introducao A Arch (Livro)/Introdução a Arquitetura de Software (Livro).md",
+    "Introducao A Arch (Livro)/Imgs/Pasted image 20260623191930.png",
+    "Introducao A Arch (Livro)/Imgs",
+    "Introducao A Arch (Livro)/Imgs/Pasted image 20260623192043.png",
+    "Introducao A Arch (Livro)/Imgs/Pasted image 20260623192019.png",
+    "Faculdade/Marketing Digital.md",
+    "AWS/Tracing.md",
+    "AWS/Lambdas.md",
+    "AWS/CloudFormation.md",
+    "AWS/AWS CDK (Cloud Development Kit).md"
   ]
 }
